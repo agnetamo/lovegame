@@ -1,0 +1,135 @@
+body {
+  text-align: center;
+  font-family: Fredoka;
+  font-weight: 300;
+}
+
+#title {
+  background-color: #FCB0FC;
+}
+
+.section-container {
+  padding: 15% 15%;
+}
+
+h1, h2, h3 {
+  font-family: Fredoka;
+  font-weight: 500;
+}
+
+.main-heading {
+  color: white;
+  line-height: 1.5;
+}
+
+.container-fluid {
+  padding: 5% 10%;
+}
+
+.title-image {
+  width: 50%;
+  float: right;
+}
+
+.navbar-brand {
+  font-family: Fredoka;
+  font-size: 4rem;
+  font-weight: 700;
+}
+
+.navbar {
+  margin-bottom: 4rem;
+  padding-left: 1rem;
+}
+
+.nav-item {
+  font-size: 1.5rem;
+  font-weight: 100;
+  padding: 0 25px;
+}
+
+.features-container {
+  padding: 10% 15%;
+}
+
+.feature {
+  padding: 0 3%;
+}
+
+.feature-icon {
+  color: #FF3351;
+}
+
+.feature-icon:hover {
+  color: #D9AFAF;
+}
+
+.feature-heading {
+  font-size: 1.5rem;
+  margin-top: 1rem;
+}
+
+.feature-text {
+  color: #8f8f8f;
+  line-height: 2;
+}
+
+#feedback {
+  background-color: #FCB0FC;
+  padding-bottom: 2%;
+  color: white;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 70%;
+}
+
+.testimonial-text {
+  line-height: 1.5;
+  font-size: 3rem;
+  padding-bottom: 1rem;
+}
+
+.carousel-item {
+  padding: 10% 15%;
+}
+
+.card {
+  margin: 5%;
+  padding: 5%;
+}
+
+.card-header {
+  color: #FCB0FC;
+  font-weight: 700;
+}
+
+.options-section-text {
+  font-size: 1.5rem;
+}
+
+.options-section-heading {
+  font-size: 3rem;
+  line-height: 2;
+}
+
+.contacts {
+  font-size: 1.5rem;
+  padding-bottom: 10px;
+}
+
+.f {
+  border-radius: 100%;
+}
+.mystery {
+  width: 15%;
+}
+.contact-container {
+  background-color: #FCB0FC;
+  padding: 5%;
+
+}
+footer{
+  padding-top: 5px;
+}
